@@ -1,6 +1,6 @@
 # 🎵 Whisper 음성-텍스트 변환 스크립트
 
-OpenAI Whisper[https://github.com/openai/whisper]를 사용하여 한국어 음성 파일을 텍스트로 변환하는 스크립트입니다.
+[OpenAI Whisper](https://github.com/openai/whisper)를 사용하여 한국어 음성 파일을 텍스트로 변환하는 스크립트입니다.
 
 ## 설치 방법
 
